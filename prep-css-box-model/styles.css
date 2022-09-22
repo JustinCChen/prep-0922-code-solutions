@@ -9,10 +9,7 @@ button {
   /* 👇 YOUR CODE HERE 👇 */
   margin: 20px;
   padding: 10px;
-
-  p.double {
-    width: 3px;
-    border-style: double;
-    color: darkgray;
-  }
+  width: 3px;
+  border-style: double;
+  color: darkgray;
 }
